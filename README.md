@@ -1,4 +1,4 @@
-# Image-comparison-gui
+# Image Comparison GUI
 SJ Rothfuss
 
 It is difficult to compare images collected with different modalities due to differences of scale. Scale bars help with this but the need to infer from the length of a scale bar means it is not always immediately obvious how two structures compare. 
